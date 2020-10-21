@@ -1,0 +1,31 @@
+header{
+    background-color: lightseagreen;
+    color: white;
+    height: 100px;
+    width: 702px;
+}
+#jl{
+    margin-left: 30px;
+    padding-top: 30px ;
+}
+.class1,.class2,.class3,.class4,.class5{
+    display: flex;
+    border:1px solid lightseagreen;
+    width: 700px;
+
+}
+.section2{
+    padding-left: 30px;
+}
+.section1{
+    background-color: mediumaquamarine;
+    width: 100px;
+}
+#jbxx,#lxfs,#nlms,#jyjl,#xmjl{
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+.jbxx,.lxfs{
+    font-weight: bold;
+}
